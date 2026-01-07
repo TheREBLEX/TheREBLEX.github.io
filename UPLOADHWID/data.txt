@@ -1,0 +1,14 @@
+[
+    {
+        "image": "https:\/\/i.ytimg.com\/vi\/h23htnQWDQE\/maxresdefault.jpg",
+        "title": "KingRuaHub - Blox Fruits ",
+        "description": "No Key, bug, autofarm",
+        "script": "https:\/\/raw.githubusercontent.com\/shinichi-dz\/phucshinyeuem\/refs\/heads\/main\/KingRuaHub.lua"
+    },
+    {
+        "image": "https:\/\/i.ytimg.com\/vi\/h23htnQWDQE\/maxresdefault.jpg",
+        "title": "Blox Fruits",
+        "description": "No Key, tiene bugs, sirve",
+        "script": "https:\/\/raw.githubusercontent.com\/shinichi-dz\/phucshinyeuem\/refs\/heads\/main\/KingRuaHub.lua"
+    }
+]
